@@ -38,7 +38,7 @@ function calcelElementOfList(e){
 
     e.target.remove();
 }
-
+//prova
 //let result = responseMessage2.filter(item => item.Color==farbe);
 
 
