@@ -1,0 +1,15 @@
+#IdBox{
+    border-radius: 40px;
+    background-color: blueviolet;
+    border-style: solid;
+    border-width: 20px;
+    position: absolute;
+    top:140px;
+    left: 140px;
+    width: 200px;
+    height: 200px
+}
+.move{
+    position:  absolute;
+    left: 150px;
+}
